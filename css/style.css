@@ -7,6 +7,12 @@ html, body{
    font-size: 100%;
    background:#fff; 
 }
+.fixed-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
 a {
   text-decoration: none;
 }
